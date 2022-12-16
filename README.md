@@ -1,2 +1,2 @@
 # ProgramDeretBilangan
-For Team Assingment 2
+For Team Assignment 2
